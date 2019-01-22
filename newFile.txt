@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+HEAD
 I just made a change! Testing out forking and pull requests. Changed master.
-=======
+
 I just made a change! Testing out forking and pull requests. 
 
 Adding new stuff by creating a branch, will merge this later.
 
 Another entry here. 
->>>>>>> testingBranch
+ testingBranch
